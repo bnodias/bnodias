@@ -1,7 +1,6 @@
-### Development Specialist
+### Tech Lead
 
 [![Yahoo!](https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white)](mailto:bnodias@yahoo.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-dias-224b2b31b)
 
 Enthusiast of the best web & mobile development technologies.
 
